@@ -35,13 +35,7 @@ while(!valido){
     
 }
        
-
     System.out.println("Olá "+NomeUsuario+" obrigado por criar uma conta em nosso banco, sua agência é "+Agencia+", conta "+NumeroDaConta+", e seu saldo "+Saldo+" já está disponível para saque");
         sc.close(); 
     }
 }
-
-  //int Numero;
-        //String Agencia;
-        //String NomeCliente;
-        //double Saldo;
